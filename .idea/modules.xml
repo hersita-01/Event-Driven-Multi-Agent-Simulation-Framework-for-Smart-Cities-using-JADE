@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../APP/APP/APP.iml" filepath="$PROJECT_DIR$/../APP/APP/APP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRACTISE.iml" filepath="$PROJECT_DIR$/PRACTISE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../APP/Traffic Management/Traffic Management.iml" filepath="$PROJECT_DIR$/../APP/Traffic Management/Traffic Management.iml" />
+    </modules>
+  </component>
+</project>
